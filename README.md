@@ -1,4 +1,4 @@
-## LeapFrog Cartridge library for KiCAD
+## LeapFrog Cartridge for KiCAD
 
 The repo includes the schematic and the linked footprint for the LeapFrog Enterprises Didj/Leapster Cartridge pinouts.
 
